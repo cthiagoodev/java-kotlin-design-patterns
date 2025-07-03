@@ -1,4 +1,5 @@
 package br.com.thiagoodev.designpatterns.strategy;
 
-public class Strategy {
+public interface Strategy {
+    double execute(double a, double b);
 }
