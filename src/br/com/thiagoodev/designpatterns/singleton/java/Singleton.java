@@ -1,4 +1,4 @@
-package br.com.thiagoodev.designpatterns.singleton;
+package br.com.thiagoodev.designpatterns.singleton.java;
 
 public class Singleton {
     private static final Singleton instance = new Singleton();

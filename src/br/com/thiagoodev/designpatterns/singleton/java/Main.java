@@ -1,4 +1,4 @@
-package br.com.thiagoodev.designpatterns.singleton;
+package br.com.thiagoodev.designpatterns.singleton.java;
 
 /// This module is an example of Singleton Design Pattern
 public class Main {
