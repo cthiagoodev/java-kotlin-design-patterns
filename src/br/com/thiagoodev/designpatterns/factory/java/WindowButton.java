@@ -1,6 +1,6 @@
-package br.com.thiagoodev.designpatterns.factory;
+package br.com.thiagoodev.designpatterns.factory.java;
 
-public class HTMLButton implements Button{
+public class WindowButton implements Button {
     @Override
     public void render() {
 
