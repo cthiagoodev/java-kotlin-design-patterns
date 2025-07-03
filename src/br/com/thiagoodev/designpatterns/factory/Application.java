@@ -11,7 +11,7 @@ public class Application {
             case "Mac OS X":
                 this.dialog = new WindowsDialog();
                 break;
-            case "Windows":
+            case "Web":
                 this.dialog = new WebDialog();
                 break;
             default:
